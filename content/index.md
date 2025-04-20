@@ -4,6 +4,8 @@ draft: false
 title: ''
 ---
 
-# David Straub
+# David M. Straub
 
 {{< ico fab linkedin >}} [david-straub](https://www.linkedin.com/in/david-straub/)
+&nbsp;&nbsp;
+{{< ico fab github >}} [DavidMStraub](https://github.com/DavidMStraub/)
