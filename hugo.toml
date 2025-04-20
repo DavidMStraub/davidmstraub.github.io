@@ -1,4 +1,19 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://www.davidstraub.de/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'David Straub'
 theme = 'hugo-book'
+disableKinds = ['taxonomy']
+[params]
+  BookTheme = 'auto'
+  BookSection = '*'
+  BookComments = false
+  math = true
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+      [markup.goldmark.extensions.passthrough]
+        enable = true
+        [markup.goldmark.extensions.passthrough.delimiters]
+          block = [['\[', '\]'], ['$$', '$$']]
+          inline = [['\(', '\)']]
