@@ -1,7 +1,7 @@
 ---
 date: '2025-04-20T22:16:24+02:00'
 draft: false
-title: ''
+title: 'Home'
 ---
 
 # David M. Straub
