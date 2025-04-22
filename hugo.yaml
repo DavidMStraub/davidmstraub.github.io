@@ -9,6 +9,7 @@ params:
   BookTheme: auto
   BookSection: docs
   BookComments: false
+  BookFavicon: favicon.png
   math: true
   icons:
     throw_on_error: true
