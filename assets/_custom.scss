@@ -1,3 +1,6 @@
+@import 'syntax-light';
+@import 'syntax-dark';
+
 .hi-svg-inline {
   vertical-align: -0.125rem;
   color: var(--body-font-color);
@@ -42,10 +45,19 @@
 
 :root {
   @include theme-light;
+
+  pre {
+    background-color: #f1f1f1;
+  }
 }
 
 @media (prefers-color-scheme: dark) {
   :root {
     @include theme-dark;
+
+    pre {
+      background-color: #282c34;
+    }
   }
 }
+
