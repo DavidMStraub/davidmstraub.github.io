@@ -80,3 +80,48 @@
 .copy-button:hover .copy-icon {
   fill: rgba(0, 0, 0, 0.5);
 }
+
+.home-photo img {
+  max-width: 100%;
+  width: 230px;
+  height: 230px;
+  border-radius: 50%;
+}
+
+.home-links p {
+  margin-bottom: 0.6rem;
+  margin-top: 0;
+}
+
+.home-container {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  gap: 2rem;
+  margin-top: 50px;
+}
+
+.home-links {
+  flex: 1;
+}
+
+.home-photo {
+  flex: 0 0 auto;
+  /* Don't grow, don't shrink, use natural width */
+}
+
+.markdown {
+
+  h1,
+  h2,
+  h3,
+  h4 {
+    font-weight: 530;
+  }
+}
+
+@media (max-width: 768px) {
+  .home-container {
+    flex-direction: column;
+  }
+}
