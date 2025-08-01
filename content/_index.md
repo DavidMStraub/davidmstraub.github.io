@@ -1,13 +1,31 @@
 ---
-date: '2025-04-20T22:16:24+02:00'
+date: "2025-04-20T22:16:24+02:00"
 draft: false
-title: 'Home'
+title: "Home"
 ---
 
-# David M. Straub
+
+# Prof. Dr. David M. Straub
+
+Professor of Electrical and Computer Engineering<br>
+<a href="https://www.hm.edu">HM Hochschule München University of Applied Sciences</a><br>
+<a href="https://me.hm.edu">Department of Mechanical, Automotive and Aeronautical Engineering</a>
+
+<div class="home-container">
+<div class="home-photo">
+<img src="/images/david.jpg" alt="David Straub">
+</div>
+<div class="home-links">
+
+{{< ico fas envelope >}}&nbsp;[david.straub@hm.edu](mailto:david.straub@hm.edu)
+
+{{< ico fas message >}}&nbsp;[Matrix Chat](https://matrix.to/#/@mama76si:hm.edu)
 
 {{< ico fab linkedin >}}&nbsp;[david-straub](https://www.linkedin.com/in/david-straub/)
-&nbsp; &nbsp;
+
 {{< ico fab github >}}&nbsp;[DavidMStraub](https://github.com/DavidMStraub/)
-&nbsp; &nbsp;
+
 {{< ico fab orcid >}}&nbsp;[0000-0001-5762-7339](https://orcid.org/0000-0001-5762-7339)
+
+</div>
+</div>
