@@ -23,7 +23,8 @@ The requirements were:
 
 I first leaned towards [Jekyll](https://jekyllrb.com/), which I'm using for the [Grampshub Blog](https://www.grampshub.com/blog/), but then discovered [Hugo](https://gohugo.io/), which I quickly fell in love with, especially in combination with the simple but elegant [Hugo Book theme](https://hugo-book-demo.netlify.app/).
 
-Hugo has built-in support for math $\mathcal L\supset-\frac{1}{4}F_{\mu\nu}F^{\mu\nu}$ and syntax highlighting
+Hugo has built-in support for math
+$$\mathcal L\supset-\frac{1}{4}F_{\mu\nu}F^{\mu\nu}$$ and syntax highlighting
 
 ```python
 print("Hello World! 😄")
