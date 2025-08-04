@@ -66,7 +66,7 @@ I can now publish a Markdown post by hitting `Ctrl + P` and selecting "Upload Bl
 
 ![](https://i.postimg.cc/9XDyFCMG/Screenshot-20250801-210429.png)
 
-The last step was to decide how to handle images in posts. Adding the images locally in Obsidian, it becomes a pain to commit them to the repository as well, and to make sure relative paths work on both ends. The simplest solution is to upload the images *somewhere* and use the remote URL directly in Obsidian (caveat: using proper Markdown image syntax ``![](...)`` rather than wikilinks ``[[...]]``, as the latter do not work with Hugo). Regarding *somewhere*, I found [postimage](https://postimages.org/) to be a hassle-free option – it literally takes a single click to upload the image and a second click to copy the preformatted Markdown.
+The last step was to decide how to handle images in posts. Adding the images locally in Obsidian, it becomes a pain to commit them to the repository as well, and to make sure relative paths work on both ends. The simplest solution is to upload the images *somewhere* and use the remote URL directly in Obsidian (caveat: using proper Markdown image syntax `![](...)` rather than wikilinks `[[...]]`, as the latter do not work with Hugo). Regarding *somewhere*, I found [postimage](https://postimages.org/) to be a hassle-free option – it literally takes a single click to upload the image and a second click to copy the preformatted Markdown.
 
 To summarize, here are the steps I followed to create & deploy this post:
 
