@@ -13,7 +13,7 @@ I've always enjoyed web development (in fact, I've enjoyed it way before I becam
 
 The requirements were:
 
-- only open source tools (I'm making an exception for [Obsidian](https://obsidian.md/) – separate topic)
+- only open source tools (I'm making an exception for Obsidian – separate topic)
 - static site deployed via Github actions
 - static page and blog support
 - authoring posts in Markdown (ideally directly in Obsidian)
@@ -38,11 +38,11 @@ For hosting, I decided to use [Github pages](https://pages.github.com/) since it
 
 Using Github pages has the added benefit that you can even [submit pull requests](https://github.com/DavidMStraub/davidmstraub.github.io/pulls) to my website if you spot a typo and I can redeploy automatically by clicking the merge button.
 
-Now the missing icing on the cake was being able to author blog posts directly in Obsidian (my second brain) and to deploy them automatically without the need to git commit and push. Not because I plan to become a daily blogger, but simply because I enjoy [automation](https://xkcd.com/1319/).
+Now the missing icing on the cake was being able to author blog posts directly in [Obsidian](https://obsidian.md/) (my second brain) and to deploy them automatically without the need to git commit and push. Not because I plan to become a daily blogger, but simply because I enjoy [automation](https://xkcd.com/1319/).
 
 The first step was to create an Obsidian [template](https://silentvoid13.github.io/Templater/) with the necessary [YAML frontmatter](https://gohugo.io/content-management/front-matter/). I use the following template:
 
-```markdown
+```
 ---
 title: Title
 date: <% tp.date.now("YYYY-MM-DD") %>
