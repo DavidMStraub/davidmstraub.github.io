@@ -11,7 +11,7 @@ weight: 1
 
 # Curriculum Vitæ
 
-I'm a physicist with a background in high energy physics research and industry experience in data science, software engineering, battery modelling, systems engineering, and fusion energy. Starting in September 2025, I will be a Professor of Electrical and Computer Engineering at HM Hochschule München University of Applied Sciences in Munich, Germany.
+I'm a physicist with a background in high energy physics research and industry experience in data science, software engineering, battery modelling, systems engineering, and fusion energy. Since September 2025, I'm Professor of Electrical and Computer Engineering at HM Hochschule München University of Applied Sciences in Munich, Germany.
 
 
 ## Professional Experience

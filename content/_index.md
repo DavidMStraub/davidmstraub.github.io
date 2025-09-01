@@ -17,6 +17,8 @@ Professor of Electrical and Computer Engineering<br>
 </div>
 <div class="home-links">
 
+{{< ico fas house >}}&nbsp;Dachauer Str. 98b, 80335 München, Room B&nbsp;374
+
 {{< ico fas envelope >}}&nbsp;[david.straub@hm.edu](mailto:david.straub@hm.edu)
 
 {{< ico fas message >}}&nbsp;[Matrix Chat](https://matrix.to/#/@mama76si:hm.edu)
@@ -29,3 +31,4 @@ Professor of Electrical and Computer Engineering<br>
 
 </div>
 </div>
+
