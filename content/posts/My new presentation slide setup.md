@@ -8,7 +8,6 @@ tags:
   - Markdown
 categories:
   - Tools
-  - Development
 ---
 Another small technical challenge in getting set up for teaching is finding a workflow for presentation slides, which will play a part in my mix of teaching methods.
 
