@@ -4,6 +4,8 @@ date: 2025-08-04
 draft: false
 tags:
   - Hugo
+  - Markdown
+  - Obsidian
 categories:
   - Tools
 ---
