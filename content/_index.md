@@ -21,6 +21,8 @@ Professor of Electrical and Computer Engineering<br>
 
 {{< ico fas envelope >}}&nbsp;[david.straub@hm.edu](mailto:david.straub@hm.edu)
 
+{{< ico fas phone >}}&nbsp;[+49 89 1265-3322](tel:+498912653322)
+
 {{< ico fas message >}}&nbsp;[Matrix Chat](https://matrix.to/#/@mama76si:hm.edu)
 
 {{< ico fab linkedin >}}&nbsp;[david-straub](https://www.linkedin.com/in/david-straub/)
