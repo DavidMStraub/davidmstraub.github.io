@@ -11,6 +11,8 @@ Professor of Electrical and Computer Engineering<br>
 <a href="https://www.hm.edu">HM Hochschule München University of Applied Sciences</a><br>
 <a href="https://me.hm.edu">Department of Mechanical, Automotive and Aeronautical Engineering</a>
 
+## Contact
+
 <div class="home-container">
 <div class="home-photo">
 <img src="/images/david.jpg" alt="David Straub">
@@ -34,3 +36,9 @@ Professor of Electrical and Computer Engineering<br>
 </div>
 </div>
 
+
+## Research interests
+
+With a background in fundamental physics and experience in high-tech startups, I’m applying **computational and data-driven modeling** to explore and improve technologies for a more **sustainable energy and mobility** future.
+
+My current research interests include microwave heating of **fusion** plasmas as well as physics-based and data-driven modeling of next-generation **batteries**, where rigorous simulation and statistical inference can help accelerate sustainable innovation.
