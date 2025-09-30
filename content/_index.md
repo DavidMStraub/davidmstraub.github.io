@@ -41,4 +41,4 @@ Professor of Electrical and Computer Engineering<br>
 
 With a background in fundamental physics and experience in high-tech startups, I’m applying **computational and data-driven modeling** to explore and improve technologies for a more **sustainable energy and mobility** future.
 
-My current research interests include microwave heating of **fusion** plasmas as well as physics-based and data-driven modeling of next-generation **batteries**, where rigorous simulation and statistical inference can help accelerate sustainable innovation.
+My current research interests include microwave heating of **fusion** plasmas as well as physics-based and data-driven modeling of next-generation **batteries**.
