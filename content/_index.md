@@ -21,6 +21,8 @@ Professor of Electrical and Computer Engineering<br>
 
 {{< ico fas house >}}&nbsp;Dachauer Str. 98b, 80335 München, Room B&nbsp;374
 
+{{< ico fas clock >}}&nbsp;Office hours: Thursdays, 10:30–11:30
+
 {{< ico fas envelope >}}&nbsp;[david.straub@hm.edu](mailto:david.straub@hm.edu)
 
 {{< ico fas phone >}}&nbsp;[+49 89 1265-3322](tel:+498912653322)
