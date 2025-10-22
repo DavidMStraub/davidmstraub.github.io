@@ -44,3 +44,7 @@ Professor of Electrical and Computer Engineering<br>
 With a background in fundamental physics and experience in high-tech startups, I’m applying **computational and data-driven modeling** to explore and improve technologies for a more **sustainable energy and mobility** future.
 
 My current research interests include microwave heating of **fusion** plasmas as well as physics-based and data-driven modeling of next-generation **batteries**.
+
+## Side projects
+
+In my spare time, I maintain [Gramps Web](https://www.grampsweb.org/), an open-source platform for managing family trees that has over 1,000 stars on GitHub, and its hosted companion, [Grampshub](https://www.grampshub.org/). Read my [blog post](https://davidstraub.de/posts/finding-a-better-way-to-preserve-and-share-family-history/) to find out more.
