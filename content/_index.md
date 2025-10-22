@@ -47,4 +47,4 @@ My current research interests include microwave heating of **fusion** plasmas as
 
 ## Side projects
 
-In my spare time, I maintain [Gramps Web](https://www.grampsweb.org/), an open-source platform for managing family trees that has over 1,000 stars on GitHub, and its hosted companion, [Grampshub](https://www.grampshub.org/). Read my [blog post](https://davidstraub.de/posts/finding-a-better-way-to-preserve-and-share-family-history/) to find out more.
+In my spare time, I maintain [Gramps Web](https://www.grampsweb.org/), an open-source platform for managing family trees that has over 1,000 stars on GitHub, and its hosted companion, [Grampshub](https://www.grampshub.com/). Read my [blog post](https://davidstraub.de/posts/finding-a-better-way-to-preserve-and-share-family-history/) to find out more.
