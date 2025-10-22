@@ -1,5 +1,5 @@
 ---
-title: Finding a Better Way to Preserve and Share Family History
+title: Finding a better way to preserve and share family history
 date: 2025-10-22
 draft: false
 tags:
