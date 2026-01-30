@@ -42,7 +42,7 @@ One general problem with AI agents is that they're often too opiniated and self-
 
 With respect to my goal of spending less time tweaking slides and more time thinking about content, the AI-powered workflow has been very successful for me. My key takeaways are:
 
-- The more guidance in the prompt, the better. Current AI agent still think fairly "local": they are good at creating or refactoring a couple of slides, but not great at keeping consistency and a thread throughout the whole course.
+- The more guidance in the prompt, the better. Current AI agent still think fairly "locally": they are good at creating or refactoring a couple of slides, but not great at keeping consistency and a thread throughout the whole course.
 - The more existing material in a certain style, the easier it is for the LLM to infer matching content.
 - Tell the agent to present options before making decisions.
 
