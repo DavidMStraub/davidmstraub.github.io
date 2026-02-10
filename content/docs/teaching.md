@@ -5,11 +5,26 @@ weight: 1
 
 # Teaching
 
-## Courses in Winter Semester 2025/26
+Here you can find information about my current and past courses at HM.
 
-- L1171 Programmieren (LRB1A, LRB1B, SEB1)
-- L1190 Elektrotechnik (LRB1B)
+## Current Semester (Summer 2026)
 
-## Presentation slides
+### L1172 Numerik für Ingenieure
 
-You can find my presentation slides [in the public-slides Github repository](https://github.com/DavidMStraub/public-slides).
+- Teaching Materials – coming soon
+- Moodle Course – coming soon
+
+### TBM 2.2 Programmierung von CAx-Systemen
+
+- Teaching Materials – coming soon
+- Moodle Course – coming soon
+
+## Past Courses
+
+### L1171 Programmieren
+
+- [Teaching Materials](https://davidstraub.de/teaching-materials/programmieren/)
+
+### L1190 Elektrotechnik
+
+- [Teaching Materials](https://davidstraub.de/teaching-materials/elektrotechnik/)
