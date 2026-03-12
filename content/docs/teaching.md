@@ -9,6 +9,11 @@ Here you can find information about my current and past courses at HM.
 
 ## Current Semester (Summer 2026)
 
+### LL171 Programmieren (Praktikum)
+
+- [Exercises](https://davidstraub.de/teaching-materials/programmieren/)
+- [Moodle Course](https://moodle.hm.edu/course/view.php?id=24591)
+
 ### L1172 Numerik für Ingenieure
 
 - [Lecture Slides](https://davidstraub.de/teaching-materials/numerik/)
