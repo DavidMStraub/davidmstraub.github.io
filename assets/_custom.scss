@@ -87,9 +87,8 @@
 
 .home-photo img {
   max-width: 100%;
-  width: 230px;
-  height: 230px;
-  border-radius: 50%;
+  height: 270px;
+  border-radius: 6px;
 }
 
 .home-links p {
@@ -100,7 +99,7 @@
 .home-container {
   display: flex;
   flex-direction: row;
-  align-items: flex-start;
+  align-items: center;
   gap: 2rem;
   margin-top: 50px;
   margin-bottom: 30px;

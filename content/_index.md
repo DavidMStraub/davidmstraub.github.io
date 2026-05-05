@@ -15,7 +15,7 @@ Professor of Electrical and Computer Engineering<br>
 
 <div class="home-container">
 <div class="home-photo">
-<img src="/images/david.jpg" alt="David Straub">
+<img src="/images/hm_straub_square.avif" alt="David Straub">
 </div>
 <div class="home-links">
 
