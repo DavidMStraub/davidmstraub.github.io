@@ -11,7 +11,7 @@ Here you can find information about my current and past courses at HM.
 
 - [Teaching Materials](https://davidstraub.de/teaching-materials/elektrotechnik/)
 
-### LL171 Programmieren
+### L1171 Programmieren
 
 - [Teaching Materials](https://davidstraub.de/teaching-materials/programmieren/)
 
