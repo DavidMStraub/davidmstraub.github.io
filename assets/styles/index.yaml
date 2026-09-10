@@ -1,0 +1,14 @@
+# Declares the order of CSS files.
+# Mirrors the list from hugo-book, with the syntax highlighting styles added.
+# Keep in sync with themes/hugo-book/assets/styles/index.yaml on theme updates.
+- normalize.css
+- variables.css
+- utils.css
+- book.css
+- markdown.css
+- shortcodes.css
+- print.css
+- themes.css
+- syntax-light.css
+- syntax-dark.css
+- custom.css
