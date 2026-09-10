@@ -39,12 +39,33 @@ Professor of Electrical and Computer Engineering<br>
 </div>
 
 
-## Research interests
+## Research and projects
 
-With a background in fundamental physics and experience in high-tech startups, I’m applying **computational and data-driven modeling** to explore and improve technologies for a more **sustainable energy and mobility** future.
+With a background in fundamental physics and experience in high-tech startups, I work on **computational and data-driven modeling** in engineering and on the software engineering it takes. I release my work as open source and contribute to the projects it builds on. Four areas at the moment:
 
-My current research interests include microwave heating of **fusion** plasmas \(see my [blog post on Raytrax](https://davidstraub.de/posts/raytrax---a-new-python-library-for-fusion-heating/)\) as well as physics-based and data-driven modeling of next-generation **batteries** \(I am maintaing the [PathSim Battery toolbox](https://github.com/pathsim/pathsim-batt)\).
+### Fusion energy
 
-## Side projects
+Microwave heating of fusion plasmas.
 
-In my spare time, I maintain [Gramps Web](https://www.grampsweb.org/), an open-source platform for managing family trees that has over 1,000 stars on GitHub, and its hosted companion, [Grampshub](https://www.grampshub.com/). Read my [blog post](https://davidstraub.de/posts/finding-a-better-way-to-preserve-and-share-family-history/) to find out more.
+- [Raytrax](https://proximafusion.github.io/raytrax/) – open-source Python library for electron cyclotron resonance heating, which I started at Proxima Fusion
+- [Blog post](https://davidstraub.de/posts/raytrax---a-new-python-library-for-fusion-heating/) on what it does and why
+
+### Batteries
+
+Physics-based and data-driven modeling of next-generation cells and battery systems.
+
+- [PathSim-Batt](https://github.com/pathsim/pathsim-batt) – battery cell blocks I maintain for the [PathSim](https://pathsim.org) simulation framework, built on [PyBaMM](https://pybamm.org)
+
+### Code-based engineering
+
+Parametric modeling, geometry and design space exploration in Python.
+
+- [CAD as Code](/docs/cad-as-code/) – open-source book, developed alongside my teaching
+- [Programming CAx systems](/docs/teaching/) – my course at HM
+
+### Open data and digital humanities
+
+Family and local history are a long-standing personal interest of mine, and open data is where I think their sources belong.
+
+- [Domus](https://domus.genealogy.net) – map-based platform for researching house history and recording it directly in Wikidata and OpenHistoricalMap, described in a [preprint](https://arxiv.org/abs/2608.12566)
+- [Gramps Web](https://www.grampsweb.org/) – open-source, self-hosted platform for collaborative family tree research, which I maintain
