@@ -65,6 +65,63 @@
   }
 }
 
+figure {
+  margin: 1.5rem 0;
+
+  figcaption {
+    font-size: 0.85em;
+    opacity: 0.8;
+    margin-top: 0.4rem;
+  }
+}
+
+// Figure beside a block of text, stacking on narrow screens.
+.media {
+  display: flex;
+  align-items: flex-start;
+  gap: 2rem;
+  margin: 1.5rem 0;
+
+  > figure {
+    flex: 0 0 220px;
+    max-width: 100%;
+    margin: 0;
+
+    img {
+      width: 100%;
+      border-radius: 6px;
+    }
+  }
+
+  > :not(figure) {
+    flex: 1;
+    margin-top: 0;
+  }
+}
+
+@media (max-width: 768px) {
+  .media {
+    flex-direction: column;
+    gap: 1rem;
+
+    > figure {
+      flex-basis: auto;
+      width: 220px;
+    }
+  }
+}
+
+.book-post {
+  .book-post-container {
+    align-items: flex-start;
+    gap: 2rem;
+  }
+
+  .book-post-thumbnail img {
+    border-radius: 6px;
+  }
+}
+
 .copy-button {
   cursor: pointer;
   border: none;

@@ -6,10 +6,13 @@ tags:
   - GrampsWeb
 categories:
   - Genealogy
+BookPostThumbnail: gramps-web-thumb.jpg
 ---
-*Or: why I started working on open-source web genealogy.*
+Or: why I started working on open-source web genealogy.
 
-![](https://raw.githubusercontent.com/DavidMStraub/davidmstraub.github.io/refs/heads/main/content/posts/grampsweb.jpg)
+<!--more-->
+
+![](/posts/grampsweb.jpg)
 
 I’ve always been fascinated by family trees. My grandfather was a hobby genealogist and local historian and had researched and produced ancestor charts going back up to ten generations. Looking at the names of all those people without whom I wouldn’t exist made me curious about the life they lived. Historical events I heard about in history classes suddenly felt much more real and tangible imagining how my ancestors must have experienced them – without knowing the outcome that we often take for granted when we look at history “backwards”.
 
