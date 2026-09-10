@@ -29,6 +29,9 @@ code {
 
 :root {
   --font-size: 17.5px;
+
+  /* Measure limit for running text (~90 characters at the base size) */
+  --content-max-width: 48rem;
 }
 
 /* Light, also used as the default of the `auto` theme */
@@ -39,11 +42,11 @@ code {
   --gray-200: #e9ecef;
   --gray-500: #adb5bd;
 
-  --color-link: #0055bb;
-  --color-visited-link: #0055bb;
+  --color-link: #1560bd;
+  --color-visited-link: #1560bd;
 
   --body-background: white;
-  --body-font-color: rgb(31, 35, 40);
+  --body-font-color: #1f2937;
 
   --icon-filter: none;
 }
@@ -210,12 +213,42 @@ figure {
   /* Don't grow, don't shrink, use natural width */
 }
 
+/* Typography */
+
+.book-page {
+  max-width: calc(var(--content-max-width) + 2 * var(--space-16));
+}
+
 .markdown {
+  line-height: 1.7;
+
   h1,
   h2,
   h3,
-  h4 {
-    font-weight: 530;
+  h4,
+  h5,
+  h6 {
+    font-weight: 500;
+    letter-spacing: -0.01em;
+    line-height: 1.25;
+  }
+
+  h1 {
+    font-size: 1.8rem;
+  }
+
+  h2 {
+    font-size: 1.4rem;
+    margin-top: 1.8em;
+  }
+
+  h3 {
+    font-size: 1.2rem;
+  }
+
+  /* Slightly tighter than the body text, which is set generously */
+  li {
+    line-height: 1.6;
   }
 }
 
