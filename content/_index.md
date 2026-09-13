@@ -48,7 +48,7 @@ With a background in fundamental physics and experience in high-tech startups, I
 Microwave heating of fusion plasmas.
 
 - [Raytrax](https://proximafusion.github.io/raytrax/) – open-source Python library for electron cyclotron resonance heating, which I started at Proxima Fusion
-- [Blog post](https://davidstraub.de/posts/raytrax---a-new-python-library-for-fusion-heating/) on what it does and why
+- [Blog post](/posts/raytrax---a-new-python-library-for-fusion-heating/) on what it does and why
 
 ### Batteries
 
@@ -67,5 +67,5 @@ Parametric modeling, geometry and design space exploration in Python.
 
 Family and local history are a long-standing personal interest of mine, and open data is where I think their sources belong.
 
-- [Domus](https://domus.genealogy.net) – map-based platform for researching house history and recording it directly in Wikidata and OpenHistoricalMap, described in a [preprint](https://arxiv.org/abs/2608.12566)
+- [Domus](https://domus.genealogy.net) – map-based platform for researching house history and recording it directly in Wikidata and OpenHistoricalMap, described in a [preprint](https://arxiv.org/abs/2608.12566) and a [blog post](/posts/domus---house-history-on-open-data/)
 - [Gramps Web](https://www.grampsweb.org/) – open-source, self-hosted platform for collaborative family tree research, which I maintain
