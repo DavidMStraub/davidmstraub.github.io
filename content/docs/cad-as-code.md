@@ -14,9 +14,18 @@ A textbook on building CAD models as Python programs. It covers modeling techniq
 
 </div>
 
-## Coming soon
+## Get the book
 
-The first release will appear in September 2026 as an open access PDF, published under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) through the [HM library](https://bib.hm.edu/), with the sources in a public GitHub repository for corrections and suggestions.
+The book is published open access by HM Munich University of Applied Sciences through the [HM library](https://bib.hm.edu/).
+
+- **PDF download:** [doi.org/10.60948/OPUS-1358](https://doi.org/10.60948/OPUS-1358)
+- **Sources:** [github.com/DavidMStraub/cad-as-code-book](https://github.com/DavidMStraub/cad-as-code-book)
+
+The text and figures are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), the code examples under the MIT License, so you can use them freely in your own work. If you find an error or have a suggestion, please [open an issue](https://github.com/DavidMStraub/cad-as-code-book/issues).
+
+## Citation
+
+> David M. Straub, *CAD as Code: Parametric Modeling and Engineering with Python*. HM Munich University of Applied Sciences, 2026. DOI: [10.60948/OPUS-1358](https://doi.org/10.60948/OPUS-1358)
 
 ## Contents
 
